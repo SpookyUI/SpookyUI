@@ -240,14 +240,14 @@ if (blooketUtility.prefs.blooketUI.value) {
 		try {
 			let hack = Object.values(document.querySelector('#app > div > div'))[1].children[1]._owner;
 			hack.stateNode.questions = [{
-				"text": "blooketware moment",
+				"text": "Spooky UI is better",
 				"answers": [
-					"blooketware on top",
-					"blooketware on top2"
+					"Spooky UI is better lol",
+					"Spooky UI is better get good"
 				],
 				"correctAnswers": [
-					"blooketware on top",
-					"blooketware on top2"
+					"Spooky UI is better get good",
+					"Spooky UI is better lol"
 				],
 				"number": 1,
 				"random": false,
@@ -256,14 +256,14 @@ if (blooketUtility.prefs.blooketUI.value) {
 				"audio": null
 			}]
 			hack.stateNode.freeQuestions = [{
-				"text": "blooketware moment",
+				"text": "Spooky UI is better",
 				"answers": [
-					"blooketware on top",
-					"blooketware on top2"
+					"Spooky UI is better get good",
+					"Spooky UI is better lol"
 				],
 				"correctAnswers": [
-					"blooketware on top",
-					"blooketware on top2"
+					"Spooky UI is better get good",
+					"Spooky UI is better lol"
 				],
 				"number": 1,
 				"random": false,
